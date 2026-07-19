@@ -1,2 +1,25 @@
 /* Css is used to style the HTML elements on the webpage. It allows you to change colors, fonts, layouts, 
 and more to create a visually appealing design. */
+
+/* Change the font and background of the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* A light grey background like Amazon's */
+    color: #333333; /* Dark grey text for readability */
+    margin: 0;
+    padding: 40px; /* Space around the edges */
+}
+
+/* Style your header section */
+header {
+    background-color: #131921; /* Amazon's dark blue/black header color */
+    color: white;
+    padding: 20px;
+    border-radius: 8px; /* Rounds the corners slightly */
+}
+
+/* Make your heading stand out */
+h1 {
+    margin-top: 0;
+    color: #ff9900; /* Amazon's signature orange color */
+}
